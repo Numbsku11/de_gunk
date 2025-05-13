@@ -11,7 +11,7 @@
 				[
 					{
 						_class = "RenderMeshFile"
-						filename = "models\\fbx\\mesh\\lander.fbx"
+						filename = "models\\fbx\\mesh\\pitplank.fbx"
 						import_scale = 1.0
 						import_filter = 
 						{

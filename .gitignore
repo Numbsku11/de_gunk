@@ -1,3 +1,6 @@
 *bakeresourcecache*
 *.bat
 cmit.txt
+test_map*
+*radgen*
+*.png
